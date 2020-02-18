@@ -1,0 +1,11 @@
+project2FB.c:69:6:delay	24	static
+project2FB.c:102:6:Touch_Init	8	static
+project2FB.c:131:5:Touch_Scan_LH	16	static
+project2FB.c:143:6:LED_cyclegreen_On	16	static
+project2FB.c:151:6:LED_cyclegreen_OFF	16	static
+project2FB.c:159:6:LED_cyclered_On	16	static
+project2FB.c:167:6:LED_cyclered_OFF	16	static
+project2FB.c:175:6:LED_cycleblue_On	16	static
+project2FB.c:183:6:LED_cycleblue_OFF	16	static
+project2FB.c:190:6:KL25Z_RGB_Flasher	8	static
+project2FB.c:222:5:main	72	static

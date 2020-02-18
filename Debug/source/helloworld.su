@@ -1,0 +1,5 @@
+helloworld.c:57:6:delay	24	static
+helloworld.c:91:6:Touch_Init	8	static
+helloworld.c:120:5:Touch_Scan_LH	16	static
+helloworld.c:135:6:KL25Z_RGB_Flasher	8	static
+helloworld.c:199:5:main	24	static
